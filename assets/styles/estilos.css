@@ -1,0 +1,33 @@
+.estiloletra{
+    font-family: "Imbue", serif;
+  font-optical-sizing: auto;
+  font-weight: 150px;
+  font-style: normal;
+         }
+
+.fondo{
+  background-image: url("../img/Home.png");
+    padding: 15%;
+  background-position: top center;
+  background-size: cover;
+  
+}
+
+.botones{
+  background-color: #fff;
+  color: black;
+  border-radius: 15px;
+  text-decoration: none;
+  border: none;
+  padding: 2% 5%;
+  font-size: 18px;
+  font-weight: bold;
+  
+  }
+
+  .botones:hover{
+    background-color: black;
+    color: #fff;
+    border: #fff;
+  }
+  
